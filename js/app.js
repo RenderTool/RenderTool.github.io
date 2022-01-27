@@ -1,5 +1,5 @@
 const params = {
-    exposure: 0.5
+    exposure: 1.0
 };
 let renderer, scene;
 let camera,plane,mesh,xsize ,ysize,aspect;
